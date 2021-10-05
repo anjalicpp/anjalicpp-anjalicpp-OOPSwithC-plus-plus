@@ -1,0 +1,4 @@
+add(int,int),add(float,float),both of these methods are in two different namespaces
+First and SecondAccess these methods using keywordfor main method & try to access these methods for mixed values [int,float]
+{Task 2& Task-4}
+
