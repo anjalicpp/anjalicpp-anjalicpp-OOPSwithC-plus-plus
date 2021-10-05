@@ -1,0 +1,2 @@
+This is to show how preprocessor will react when you try to use #include<iostream.h> instead of #include<iostream>
+Output shows that cout function is not delcared as we didnot included header file needed for it which contained its function.
