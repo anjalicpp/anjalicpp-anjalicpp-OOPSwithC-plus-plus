@@ -1,0 +1,3 @@
+add(int,int),add(float,float),both of these methods are in two different namespaces
+First and Second
+Try to access them without using SRO method and check how compiler will react.
