@@ -1,0 +1,3 @@
+add(int,int),add(float,float),both of these methods are in two different namespaces
+First and Second
+Access these methods using scope resolution operator [::](SRO) from main method 
