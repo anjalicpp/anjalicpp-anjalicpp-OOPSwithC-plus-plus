@@ -1,0 +1,4 @@
+code description
+
+To show how preprocessor will react when you try to use #include<iostream.h> instead of #include<iostream>.
+Output:it shows that cout function os not declared as its header file is not included.
